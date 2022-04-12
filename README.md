@@ -10,4 +10,4 @@ npm start
 ```
 
 
-*@plytonrexus has a single screen version [here](https://github.com/PlytonRexus/chain-reaction-single).*
+*@Plytonrexus has a single screen version [here](https://github.com/PlytonRexus/chain-reaction-single).*
