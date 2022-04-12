@@ -14,7 +14,7 @@
     "web",
     "game"
   ],
-  "author": "Mihir Jichkar",
+  "author": "Mohammad Hasim Ansari ",
   "license": "MIT",
   "dependencies": {
     "express": "^4.17.1",
